@@ -5,6 +5,7 @@ import com.rigobertocanseco.graphicshape.Circle;
 
 public class Main {
     /*
+    Encapsulate
     Access modifiers/ Within the    Subclass inside     Subclass outside        Other class inside      Other class outside
     accessibility  same class       the package         the package             the package             the package
     Public           Yes                 Yes                Yes                     Yes                     Yes
