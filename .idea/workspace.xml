@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40b8f15a-b5d9-493e-b596-9b31e35a5298" name="Default Changelist" comment="add EXAM TOPICS 1Z0-808-ESN">
-      <change afterPath="$PROJECT_DIR$/chapters/chapter-1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapters/chapter-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapters/chapter-1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,17 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.TestNumber" />
@@ -161,7 +147,12 @@
       <workItem from="1598239968782" duration="604000" />
       <workItem from="1598316503255" duration="6195000" />
       <workItem from="1598383705539" duration="2589000" />
-      <workItem from="1598386604021" duration="6678000" />
+      <workItem from="1598386604021" duration="15649000" />
+      <workItem from="1598804958076" duration="665000" />
+      <workItem from="1598922210513" duration="1270000" />
+      <workItem from="1598925970066" duration="7867000" />
+      <workItem from="1599007794957" duration="1199000" />
+      <workItem from="1599015483828" duration="1214000" />
     </task>
     <task id="LOCAL-00001" summary="add EXAM TOPICS 1Z0-808-ESN">
       <created>1598318677854</created>
@@ -170,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598318677854</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add EXAM TOPICS 1Z0-808-ESN">
+      <created>1598421071526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598421071526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,13 +195,17 @@
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="187" y="30" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1598386483169" />
-    <state x="278" y="131" width="800" height="521" key="Vcs.Push.Dialog.v2" timestamp="1598318873937">
+    <state x="278" y="131" width="800" height="521" key="Vcs.Push.Dialog.v2" timestamp="1598421076006">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state x="278" y="131" width="800" height="521" key="Vcs.Push.Dialog.v2/0.24.1366.744@0.24.1366.744" timestamp="1598318873937" />
-    <state x="492" y="308" width="371" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598317272057">
+    <state x="278" y="131" width="800" height="521" key="Vcs.Push.Dialog.v2/0.24.1366.744@0.24.1366.744" timestamp="1598421076006" />
+    <state x="447" y="243" width="462" height="296" key="cloudConfig.PluginsDialog" timestamp="1598922043282">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state x="492" y="308" width="371" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.24.1366.744@0.24.1366.744" timestamp="1598317272057" />
+    <state x="447" y="243" width="462" height="296" key="cloudConfig.PluginsDialog/0.24.1366.744@0.24.1366.744" timestamp="1598922043282" />
+    <state x="492" y="308" width="371" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598488210167">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="492" y="308" width="371" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.24.1366.744@0.24.1366.744" timestamp="1598488210167" />
   </component>
 </project>
